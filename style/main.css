@@ -1,0 +1,28 @@
+body{
+    background-color: #162831;
+    ;
+    width: 1296px;
+    margin: 0 auto;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav{
+    display: flex;
+    gap: 50px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+}
+.add-seance{
+    padding: 9px 15px;
+    border-radius: 3px ;
+    border: none;
+    color: white;
+    background-color:#018ABE;
+    ;
+}
