@@ -51,6 +51,9 @@ nav a{
 }
 
 .seance-select {
+    
+    width: 416px;
+    height: 540px;
     position: relative;
     display: inline-block;
     margin-top: 30px;
@@ -66,8 +69,10 @@ nav a{
 }
 
 .seance-selectt{
+    width: 416px;
+    height: 258px;
     position: relative;
-    bottom: 530px;
+    bottom: 280px;
     left: 840px;
     display: inline-block;
     
@@ -79,10 +84,14 @@ nav a{
 .seance-selectt:hover img {
     box-shadow: 0 0 10px 5px #018ABE;
     ;
+
 }
 .seance-selecttq{
+    
+    width: 416px;
+    height: 258px;
     position: relative;
-    bottom: 530px;
+    bottom: 280px;
     
     display: inline-block;
     
@@ -98,4 +107,166 @@ nav a{
 
 .sh:hover {
  text-decoration: underline #018ABE ; 
+}
+.reviews{
+    margin-top: 150px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+.about{
+    margin-top: 150px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+.price{
+    margin-top: 150px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+.contact{
+    margin-top: 150px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+.foot{
+    margin-top: 90px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.new{
+    margin-top: 60px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+.newsthree{
+    width: 416px;
+    height: 258px;
+    position: relative;
+    bottom: 260px;
+    left: 420px;
+    display: inline-block;
+}
+
+.newsthree img {
+    display: block;
+}
+
+.newsthree:hover img {
+    box-shadow: 0 0 10px 5px #018ABE;
+    ;
+}
+.newsfour{
+    width: 416px;
+    height: 258px;
+    position: relative;
+    bottom: 260px;
+    left: 420px;
+    display: inline-block;
+}
+
+.newsfour img {
+    display: block;
+}
+
+.newsfour:hover img {
+    box-shadow: 0 0 10px 5px #018ABE;
+    ;
+}
+.newsfive{
+    width: 416px;
+    height: 258px;
+    position: relative;
+    bottom: 525px;
+    display: inline-block;
+}
+.newsfive img {
+    display: block;
+}
+
+.newsfive:hover img {
+    box-shadow: 0 0 10px 5px #018ABE;
+    ;
+}
+.newssix{
+    width: 416px;
+    height: 258px;
+    position: relative;
+    left: 420px;
+    bottom: 785px;
+    display: inline-block;
+}
+.newssix img {
+    display: block;
+}
+
+.newssix:hover img {
+    box-shadow: 0 0 10px 5px #018ABE;
+    ;
+}
+.footn{
+
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+.newsone
+.newsone img {
+    display: block;
+}
+
+.newsone:hover img {
+    box-shadow: 0 0 10px 5px #018ABE;
+    ;
+}
+.newstwo
+.newstwo img {
+    display: block;
+}
+
+.newstwo:hover img {
+    box-shadow: 0 0 10px 5px #018ABE;
+    ;
+}
+.image{
+    width: 636px;
+    height: 394px;
+    top: 352px;
+    left: 1200px;
+    position: absolute;
+    border-radius: 10px
+
+}
+.hrwe{
+    position: relative;
+    top: 400px;
+
+}
+.footform{
+    position: relative;
+    top: 400px;
+
+}
+.hrw{
+    position: relative;
+    top: 400px;
+
+}
+.footf{
+    position: relative;
+    top: 400px;
+
 }
